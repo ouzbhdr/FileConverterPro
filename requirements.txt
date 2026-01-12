@@ -1,0 +1,4 @@
+customtkinter
+Pillow
+docx2pdf
+pdf2docx
