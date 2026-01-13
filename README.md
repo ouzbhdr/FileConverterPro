@@ -12,3 +12,6 @@ A simple python application to convert your files offline.
 ## 📦 Installation
 Import requirements.
 Just run the code.
+
+```bash
+pip install -r requirements.txt
