@@ -12,7 +12,7 @@ A simple python application to convert your files offline.
 - It doesn't delete the old file.
 
 ## 📦 Installation
-Import requirements.
+Install requirements.
 Just run the code.
 
 ```bash
